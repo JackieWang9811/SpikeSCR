@@ -22,3 +22,15 @@ Our energy consumption calculation framework is based on syops-counter[2], with 
 [1] I. Hammouamri, I. Khalfaoui-Hassani, T. Masquelier, Learning delays in spiking neural networks using dilated convolutions with learnable spacings[C]. International Conference on Learning Representations, 2024.
 
 [2] Chen G, Peng P, Li G, et al. Training full spike neural networks via auxiliary accumulation pathway[J]. arXiv preprint arXiv:2301.11929, 2023.
+
+
+# Reference
+
+```bash
+@article{wang2024efficient,
+  title={Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation},
+  author={Wang, Jiaqi and Yu, Liutao and Huang, Liwei and Zhou, Chenlin and Zhang, Han and Song, Zhenxi and Zhang, Min and Ma, Zhengyu and Zhang, Zhiguo},
+  journal={arXiv preprint arXiv:2412.12858},
+  year={2024}
+}
+```
