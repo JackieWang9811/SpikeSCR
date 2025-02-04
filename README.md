@@ -1,7 +1,7 @@
 # SpikeSCR
 Code for the paper "Efficient Speech Command Recognition Using Spiking Neural Networks and Time-Scaled Curriculum Distillation"
 
-We provide a baseline version for review during the revision stage. Please refer to the "Spiking-Transformer-Speech-baseline".
+We provide a baseline version for review during the revision stage. Please refer to another repository [Spiking-Transformer-Speech-baseline](https://github.com/JackieWang9811/Spiking-Transformer-Speech-baseline).
 
 **SpikeSCR framework**
 
