@@ -3,12 +3,16 @@ Code for the paper "Efficient Speech Command Recognition Using Spiking Neural Ne
 
 We provide a baseline version for review during the revision stage. Please refer to another repository [Spiking-Transformer-Speech-baseline](https://github.com/JackieWang9811/Spiking-Transformer-Speech-baseline).
 
+## Overview
+
 **SpikeSCR framework**
 
 <img src="https://github.com/user-attachments/assets/295dc9be-7c9e-445a-8a01-57d0a0ce188b" width="75%" />
 
 **Time-Scaled Curriculum Distillation**
 <img src="https://github.com/user-attachments/assets/6cbf5bfa-c36a-4afe-a854-0c91b3e3c78c" width="75%" />
+
+## Notes
 
 We utilize the SpikingJelly framework to train our model, available at https://github.com/fangwei123456/spikingjelly. 
 
