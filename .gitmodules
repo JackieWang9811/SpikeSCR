@@ -1,0 +1,3 @@
+[submodule "Spiking-Transformer-Speech-baseline"]
+	path = Spiking-Transformer-Speech-baseline
+	url = https://github.com/JackieWang9811/Spiking-Transformer-Speech-baseline
