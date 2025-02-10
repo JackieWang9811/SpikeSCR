@@ -1,5 +1,5 @@
 # SpikeSCR
-Code for the paper "Efficient Speech Command Recognition Using Spiking Neural Networks and Time-Scaled Curriculum Distillation"
+Code for the paper "Efficient Speech Command Recognition Using Spiking Neural Networks and Progressive Time-scaled Curriculum Distillation"
 
 We provide a baseline version for review during the revision stage. Please refer to another repository [Spiking-Transformer-Speech-baseline](https://github.com/JackieWang9811/Spiking-Transformer-Speech-baseline).
 
@@ -9,7 +9,7 @@ We provide a baseline version for review during the revision stage. Please refer
 
 <img src="https://github.com/user-attachments/assets/295dc9be-7c9e-445a-8a01-57d0a0ce188b" width="75%" />
 
-**Time-Scaled Curriculum Distillation**
+**Progressive Time-scaled Curriculum Distillation**
 <img src="https://github.com/user-attachments/assets/6cbf5bfa-c36a-4afe-a854-0c91b3e3c78c" width="75%" />
 
 ## Notes
