@@ -109,13 +109,17 @@ This `.hdf5` file is ready to be loaded into Intel’s [Lava DL](https://github.
 We provide pre-exported Lava-compatible models under the `lava_export/` directory for direct use:
 
 lava_export/
+
 ├── shd_best_metric_model.hdf5
 
 ├── shd_best_loss_model.hdf5
 
 ├── ssc_best_metric_model.hdf5
+
 ├── ssc_best_loss_model.hdf5
+
 ├── gsc_best_metric_model.hdf5
+
 ├── gsc_best_loss_model.hdf5
 
 
