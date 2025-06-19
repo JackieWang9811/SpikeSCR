@@ -126,6 +126,8 @@ lava_export/
 
 Each `.hdf5` file corresponds to a trained SNN on SHD, SSC, or GSC datasets, exported using our `SpikeSCR` and verified to be compatible with the Lava DL runtime. These files can be used for simulation or deployment on Loihi.
 
+The exported weight files are too large to include in this repository. You can download them from our Google Drive:  
+[Download Exported Models](https://drive.google.com/drive/folders/1bt2hLGPp9xm5cdEbUkNu2g3Zmq4ViDVE?usp=drive_link)
 
 
 ### 🔜 Future Deployment on Loihi-2
