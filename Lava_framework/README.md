@@ -110,7 +110,9 @@ We provide pre-exported Lava-compatible models under the `lava_export/` director
 
 lava_export/
 ├── shd_best_metric_model.hdf5
+
 ├── shd_best_loss_model.hdf5
+
 ├── ssc_best_metric_model.hdf5
 ├── ssc_best_loss_model.hdf5
 ├── gsc_best_metric_model.hdf5
