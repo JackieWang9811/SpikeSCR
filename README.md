@@ -1,8 +1,5 @@
 # SpikeSCR
 Code for the paper "Efficient Speech Command Recognition Using Spiking Neural Networks and Progressive Time-scaled Curriculum Distillation"
-
-We provide a baseline version for review during the revision stage. Please refer to another repository [Spiking-Transformer-Speech-baseline](https://github.com/JackieWang9811/Spiking-Transformer-Speech-baseline).
-
 ## Overview
 
 **SpikeSCR framework**
@@ -31,10 +28,12 @@ Our energy consumption calculation framework is based on syops-counter[2], with 
 # Reference
 
 ```bash
-@article{wang2024efficient,
-  title={Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation},
-  author={Wang, Jiaqi and Yu, Liutao and Huang, Liwei and Zhou, Chenlin and Zhang, Han and Song, Zhenxi and Zhang, Min and Ma, Zhengyu and Zhang, Zhiguo},
-  journal={arXiv preprint arXiv:2412.12858},
-  year={2024}
+@article{wang2025efficient,
+  title={Efficient Speech Command Recognition Leveraging Spiking Neural Networks and Progressive Time-scaled Curriculum Distillation},
+  author={Wang, Jiaqi and Yu, Liutao and Huang, Liwei and Zhou, Chenlin and Zhang, Han and Song, Zhenxi and Liu, Honghai and Zhang, Min and Ma, Zhengyu and Zhang, Zhiguo},
+  journal={Neural Networks},
+  pages={108253},
+  year={2025},
+  publisher={Elsevier}
 }
 ```

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SNN-delays-github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SNN-delays-vanilla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spiking-Transformer-Speech-baseline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spiking-Transformer-Speech_v" vcs="Git" />
+  </component>
+</project>
