@@ -26,7 +26,7 @@ Our energy consumption calculation framework is based on syops-counter[2], with 
 
 
 # Reference
-
+If you find this repo useful, please consider citing:
 ```bash
 @article{wang2025efficient,
   title={Efficient Speech Command Recognition Leveraging Spiking Neural Networks and Progressive Time-scaled Curriculum Distillation},
